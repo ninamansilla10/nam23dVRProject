@@ -1,4 +1,4 @@
-
+This project is a VR apartment/bedroom. It is a high fashion style using different assets from both unity and polyhaven. 
 https://polyhaven.com/a/white_maple_veneer
 https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055
 https://polyhaven.com/a/white_stucco
